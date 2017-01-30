@@ -1,0 +1,41 @@
+
+
+nav{
+	width: 100%;
+	margin-top: 0;
+}
+
+ul {
+	list-style: none;
+	display: inline;
+	width: 100%;
+}
+
+li{
+	background-color: pink;
+	display: inline;
+	float: left;
+}
+
+a {
+	color:black;
+	font-size: 1em;
+	padding: 8px;
+	width:20px;
+}
+
+
+a#color:hover {
+	color:purple;
+}
+
+a#back:hover {
+	background-color: white;
+
+
+}
+
+a#grow:active {
+	font-size: 150%;
+	
+}
